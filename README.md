@@ -1,6 +1,6 @@
 # Hey, I'm Hunain 👋
 
-💻 Aspiring Software Developer | CS Student
+💻 CS Student | Learning Python, Building Projects, and Figuring Things Out
 
 I'm interested in programming, problem-solving, and building things through code. Currently focusing on Python and strengthening my programming fundamentals.
 
